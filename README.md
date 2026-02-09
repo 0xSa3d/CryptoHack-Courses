@@ -13,8 +13,9 @@ It contains concise notes and Python-based solutions for each challenge, organiz
 
 - **Introduction** — Encoding, bytes manipulation, XOR fundamentals
 - **Modular Arithmetic** — Number theory basics used in public-key cryptography (in progress)
-- **RSA** — Planned
+- **Public-Key Cryptography** — Planned
 - **Symmetric Cryptography** — Planned
+- **Elliptic Curves** — Planned
 
 ## Repository Structure
 
